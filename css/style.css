@@ -1,0 +1,16 @@
+/* CSS Document */
+
+.container {
+    max-width: 960px;
+    margin-bottom: 20px;
+}
+
+th {
+  background: #999;
+  color: #fff;
+}
+
+h1, h2 {
+  text-align: center;
+  color: navy;
+}
